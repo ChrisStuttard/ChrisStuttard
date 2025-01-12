@@ -24,10 +24,10 @@ Merchant Taylors’ Boys’ School Crosby (2013 - 2020)
 
 ### 🔭 In the Future:
 
-I am determined to transfer my analytical and programming skills into an exciting professional position.
-<br> I would be delighted if you are able to reach out with any tech roles you are recruting for.
+I am determined to transfer my analytical and programming skills into an exciting professional position,
+<br> and I would be delighted if you are able to reach out to me with any tech roles you are recruiting for.
 <br> Having willingly chosen to spend the majority of my time in higher education problem solving day to day, 
-<br> I look forward to stepping into my greatest challenge yet.
+<br> I am looking forward to stepping into what is hopefully my greatest challenge yet.
 
 
 #### 😄 Pronouns:
