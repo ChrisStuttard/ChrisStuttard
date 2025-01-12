@@ -22,11 +22,13 @@ Merchant Taylors’ Boys’ School Crosby (2013 - 2020)
 <br> UK Catan National Championship (Finalist 2022, Semi-Finalist 2021, 2023 and 2024). 
 * Hobbies: Poker and Strategy Board Games, Padel and Swimming. 
 
-### 🔭 I’m currently:
+### 🔭 In the Future:
 
-Determined to transfer my analytical and programming skills into an exciting professional position.
+I am determined to transfer my analytical and programming skills into an exciting professional position.
+<br> I would be delighted if you are able to reach out with any tech roles you are recruting for.
 <br> Having willingly chosen to spend the majority of my time in higher education problem solving day to day, 
-<br> I would be delighted if you are wanting to reach out with a role you are recruting for.
+<br> I look forward to stepping into my greatest challenge yet.
+
 
 #### 😄 Pronouns:
 he/him
