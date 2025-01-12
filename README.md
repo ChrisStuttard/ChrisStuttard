@@ -13,6 +13,11 @@ Merchant Taylors’ Boys’ School Crosby (2013 - 2020)
 * Ten GCSE (at A*- B or equivalent): Mathematics (A*), Chemistry (A*), Physics (A*), Computer Science (9), 
 <br> English Language (6), English Literature (8), French (8), Geography (7), Latin (8), Music (7). 
 
+### 🔭 I’m currently:
+
+Determined to transfer my analytical and programming skills into an exciting professional position.
+<br> Having willingly chosen to spend the majority of my time in higher education problem solving day to day, 
+<br> I would be delighted if you are wanting to reach out with a role you are recruting for.
 
 #### 😄 Pronouns:
 he/him
@@ -23,14 +28,4 @@ he/him
 * Reach out on LinkedIn: https://www.linkedin.com/in/chris-l-stuttard/
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
