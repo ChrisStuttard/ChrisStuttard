@@ -2,15 +2,16 @@
 
 ### 📖 Education:
 
-Durham University, MEng (Hons) Computer Science                      2020 - 2024 
+Durham University, MEng (Hons) Computer Science (2020 - 2024)
 
 * Graduated July 2024, with an Upper Second-Class Honours (2:1).
 
-Merchant Taylors’ Boys’ School Crosby                                2013 - 2020 
+Merchant Taylors’ Boys’ School Crosby (2013 - 2020)
 
 * Four A Levels: Mathematics (A*), Further Mathematics (A*), Computer Science (A*), Chemistry (A). 
 * Level 2 Qualification: Further Mathematics (A* with distinction). 
-* Ten GCSE (at A*- B or equivalent): Mathematics (A*), Chemistry (A*), Physics (A*), Computer Science (9), English Language (6), English Literature (8), French (8), Geography (7), Latin (8), Music (7). 
+* Ten GCSE (at A*- B or equivalent): Mathematics (A*), Chemistry (A*), Physics (A*), Computer Science (9), 
+English Language (6), English Literature (8), French (8), Geography (7), Latin (8), Music (7). 
 
 
 ### 😄 Pronouns:
